@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PocSemanticKernel.Web/PocSemanticKernel.Web.csproj" />
+    <Project Path="src/PocSemanticKernel/PocSemanticKernel.csproj" />
+  </Folder>
+</Solution>
